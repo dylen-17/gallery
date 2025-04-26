@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Pieces of my Childhood
+title: Dylen's Pieces of Memories
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A soft rewind to the days that shaped me
+tagline: Where memories live
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "An art gallery repository is a special place where artworks are safely kept, organized, and shared so people can enjoy and learn from them."
+description: "A collection of my memories, where every creation is a piece of my story and growth."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: dylen-17
 
