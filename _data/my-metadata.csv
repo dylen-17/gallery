@@ -1,7 +1,7 @@
 objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-coll001,picture1.jpg,,,Siargao,Dylen Posadas,2022,Photographic image of Siargao Island,Wallpaper,Siargao Island,,,Dylen Posadas,view 1,Image,image/jpg,eng,,
-coll002,picture2.jpg,,,Siquijor,Hasel Posadas,2021,Photographic image of Siquijor Island,Wallpaper,Siquijor Island,,,Hasel Posadas,view 2,Image,image/jpg,eng,,
+coll001,picture1.jpg,,,Siargao,Dylen Posadas,2022,Photographic image of Siargao Island,Wallpaper,Siargao Island,,,Dylen Posadas,picture1,Image,image/jpg,eng,,
+coll002,picture2.jpg,,,Siquijor,Hasel Posadas,2021,Photographic image of Siquijor Island,Wallpaper,Siquijor Island,,,Hasel Posadas,picture2,Image,image/jpg,eng,,
 coll003,memories2.jpg,,,me and my ate,Myka Orjela,2024,Photographic image of me and my ate,Wallpaper,Mabuhay Sison SDN,,,Myka Orjela,memories2,Image,image/jpg,eng,,
 coll004,memories1.jpg,,,me and my sister,Vilmar Posadas,2023,Photographic image of me and my sister,Wallpaper,Mabuhay Sison SDN,,,Vilmar Posadas,memories1,Image,image/jpg,eng,,
-coll005,picture3.jpg,,,me and my sister,Vilmar Posadas,2023,Photographic image of me and my sister,Wallpaper,Mabuhay Sison SDN,,,Vilmar Posadas,memories1,Image,image/jpg,eng,,
-coll006,picture4.jpg,,,me and my sister,Vilmar Posadas,2023,Photographic image of me and my sister,Wallpaper,Mabuhay Sison SDN,,,Vilmar Posadas,memories1,Image,image/jpg,eng,,
+coll005,picture3.jpg,,,friend,Dysel Posadas,2020,Photographic image of my friend,Wallpaper,Mabuhay Sison SDN,,,Dysel Posadas,picture3,Image,image/jpg,eng,,
+coll006,picture4.jpg,,,enemy,Vilma Posadas,2025,Photographic image of my enemy,Wallpaper,Mabuhay Sison SDN,,,Vilma Posadas,picture4,Image,image/jpg,eng,,
