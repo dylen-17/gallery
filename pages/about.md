@@ -8,18 +8,11 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
-## About the Collection
-
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-About My College Buddies
+## About My College Buddies
 My College Buddies is a personal space where I share moments, memories, and milestones with the amazing people I’ve met in college. These photos are snapshots of laughter, late-night studies, spontaneous adventures, and everything in between — the real and raw college life we live together.
 
 This site is a small tribute to the friendships that make college unforgettable. Thanks for stopping by and being part of our story!
+
 
 
